@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew! 👋
 
-I'm a Fullstack JavaScript Developer currently finishing up a intense bootcamp at Bloom Institute Of Technology. I am interested in UI, UX, Web Performance, JavaScript, TypeScript, and all things related to Web.
+I'm a Fullstack JavaScript Developer who recently graduated from Bloom Institute Of Technology. I enjoy working on anything involving the MERN stack and love to learn new web technologies. I am interested in UI, UX, Web Performance, JavaScript, React, and all things related to Web.
 
 - 🔭 I’m currently working with React.js and Node.js/Express.
 - 📚 Currently working to add Material UI to my frontend skills.
